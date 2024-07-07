@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premium Weather Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="weather-dashboard">
+        <div class="search">
+            <input type="text" id="city-input" placeholder="Enter city name">
+            <button id="search-button">Search</button>
+        </div>
+        <div id="time-container" class="time-container"></div> <!-- Time container -->
+        <div id="map-container" class="map-container"></div> <!-- Map container -->
+        <div class="current-weather">
+            <h1 class="city-name">City Name</h1>
+            <p class="temperature">25°C</p>
+            <p class="description">Sunny</p>
+        </div>
+        <div class="weather-details">
+            <!-- Weather details will be dynamically added here -->
+        </div>
+        <div class="forecast">
+            <!-- Forecast items will be dynamically added here -->
+        </div>
+        <div class="time-and-condition">
+            <p id="current-condition">Condition: Sunny</p>
+            <p id="current-time">Current time: 10:00 AM</p>
+        </div>
+    </div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places&callback=initMap" async defer></script>
+    <script src="script.js"></script>
+</body>
+</html>
