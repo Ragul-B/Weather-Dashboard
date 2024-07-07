@@ -1,7 +1,7 @@
 
 # Premium Weather Dashboard
 
-![Weather Dashboard Screenshot](weather-dashboard.png)
+![Weather Dashboard Screenshot](Screenshot.png)
 
 ## Features
 
@@ -61,8 +61,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-## Notes:
-
-- Replace placeholders like `'YOUR_OPENWEATHERMAP_API_KEY'` and `'YOUR_GOOGLE_MAPS_API_KEY'` with your actual API keys.
-- Include screenshots or GIFs (`weather-dashboard.png`) of your weather dashboard in action to visually demonstrate its features.
-- Adjust and expand the sections as needed to provide comprehensive information about your project. This `README.md` file serves as a guide for users and potential contributors to understand, use, and contribute to your weather dashboard project effectively.
+## Output
+![Weather Dashboard Screenshot](Screenshot.png)
+![Weather Dashboard Screenshot](Screenshot.png)
