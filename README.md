@@ -1,5 +1,5 @@
 
-# Premium Weather Dashboard
+# Weather Dashboard
 
 ![Weather Dashboard Screenshot](Screenshot.png)
 
@@ -62,5 +62,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 ## Output
-![Weather Dashboard Screenshot](Screenshot.png)
+![Weather Dashboard Screenshot](Screenshot1.png )
 ![Weather Dashboard Screenshot](Screenshot.png)
